@@ -1,4 +1,4 @@
 @Library('shared-library@master')_
 Pipeline{
-	reponame = "maven-war"
+	deployment-name = "hello-world"
 }
