@@ -1,4 +1,4 @@
 @Library('shared-library@master')_
 Pipeline{
-	deployment-name = "hello-world"
+	DeploymentName = "sparkjava-hello-world-1.0"
 }
